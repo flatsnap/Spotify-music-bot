@@ -26,11 +26,11 @@ This code uses [kazagumo](https://github.com/Takiyo0/kazagumo) v1.0.14 which use
 
 ## Demo
 
-<img src="https://cdn.discordapp.com/attachments/1010015550786777189/1027805914243280956/unknown.png" alt="Pbot-plus" width="300">
+<img src="https://cdn.discordapp.com/attachments/1010015550786777189/1027805914243280956/unknown.png" alt="Pbot-plus" width="500">
 <br />
-<img src="https://cdn.discordapp.com/attachments/1010015550786777189/1027806460954034256/unknown.png" alt="Pbot-plus" width="300">
+<img src="https://cdn.discordapp.com/attachments/1010015550786777189/1027806460954034256/unknown.png" alt="Pbot-plus" width="500">
 <br />
-<img src="https://cdn.discordapp.com/attachments/1010015550786777189/1027807048966090772/unknown.png" alt="Pbot-plus" width="300">
+<img src="https://cdn.discordapp.com/attachments/1010015550786777189/1027807048966090772/unknown.png" alt="Pbot-plus" width="500">
 
 
 
