@@ -14,9 +14,9 @@ This code uses [kazagumo](https://github.com/Takiyo0/kazagumo) v1.0.14 which use
 
 ## Authors
 
-- [@Ansh Tyagi](https://www.github.com/octokatherine)
 - [@AkAbhijit](https://github.com/AkAbhijit)
 - [@ItsAyushh](https://github.com/ItsAyushh)
+- [@Ansh Tyagi](https://www.github.com/octokatherine)
 
 ##  Requirements
 
